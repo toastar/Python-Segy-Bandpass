@@ -1,4 +1,4 @@
-from numpy import sin, linspace, pi, array, empty, pi
+from numpy import sin, linspace, pi, array, empty
 from pylab import plot, show, title, xlabel, ylabel, subplot
 from scipy import fft, arange, signal
 from obspy.segy.core import readSEGY
